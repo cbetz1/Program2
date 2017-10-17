@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Finish Line</string>
+    <string name="finishline_logo">Finish Line logo</string>
+    <string-array name="options">
+        <item>Shoes</item>
+        <item>Apparel</item>
+        <item>Accessories</item>
+    </string-array>
+</resources>
