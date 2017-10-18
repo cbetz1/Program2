@@ -7,6 +7,10 @@
     android:orientation="vertical"
     tools:context="com.example.chad.program2.TopLevelActivity">
 
+    <include
+        layout="@layout/toolbar_main"
+        android:id="@+id/toolbar"
+        />
     <ImageView
         android:layout_width="200dp"
         android:layout_height="100dp"
